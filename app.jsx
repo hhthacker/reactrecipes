@@ -1,0 +1,1 @@
+ReactDOM.render(<h1>Hello cool world</h1>, document.getElementById('container'));
